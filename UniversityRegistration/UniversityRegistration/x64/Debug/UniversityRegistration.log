@@ -1,0 +1,5 @@
+﻿  Registration.cpp
+C:\Users\nik\source\repos\UniversityRegistration\UniversityRegistration\Registration.cpp(144,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  UniversityRegistration.cpp
+  Generating Code...
+  UniversityRegistration.vcxproj -> C:\Users\nik\source\repos\UniversityRegistration\x64\Debug\UniversityRegistration.exe

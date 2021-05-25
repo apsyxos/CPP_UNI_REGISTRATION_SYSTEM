@@ -1,0 +1,271 @@
+-----University Member-----
+Name: asd
+Surname: asd
+ID: asd
+-----TA-----
+Name: asd
+Surname: asd
+ID: asd
+Course 1 grade: 98
+Course 2 grade: 79
+Course 3 grade: 88
+Grades Average: 88.33
+Can Teach: true
+-----Student-----
+Name: asd
+Surname: asd
+ID: asd
+Course 1 grade: 65
+Course 2 grade: 56
+Course 3 grade: 44
+Grades Average: 55.00
+-----Professor-----
+Name: asd
+Surname: asd
+ID: asd
+Active Teaching Personnel: false
+Office: 0
+-----Professor-----
+Name: asd
+Surname: asd
+ID: asd
+Active Teaching Personnel: true
+Office: 222
+-----TA-----
+Name: asd
+Surname: asd
+ID: asd
+Course 1 grade: 65
+Course 2 grade: 89
+Course 3 grade: 99
+Grades Average: 84.33
+Can Teach: true
+-----TA-----
+Name: asd
+Surname: asd
+ID: asd
+Course 1 grade: 98
+Course 2 grade: 89
+Course 3 grade: 77
+Grades Average: 88.00
+Can Teach: true
+-----TA-----
+Name: asd
+Surname: asd
+ID: asd
+Can Teach: true
+-----TA-----
+Name: asd
+Surname: asd
+ID: asd
+Course 1 grade: 98
+Course 2 grade: 4
+Course 3 grade: 88
+Grades Average: 63.33
+Can Teach: false
+-----University Member-----
+Name: asdqwe123
+Surname: asasdqwe123
+ID: 123123
+-----Professor-----
+Name: asd
+Surname: asd
+ID: asd
+Active Teaching Personnel: true
+Office: 333
+-----Professor-----
+Name: ad
+Surname: asd
+ID: asd
+Active Teaching Personnel: true
+Office: 222
+-----Student-----
+Name: asd
+Surname: asd
+ID: asd
+Course 1 grade: 65
+Course 2 grade: 56
+Course 3 grade: 49
+Grades Average: 56.67
+-----TA-----
+Name: asd
+Surname: asd
+ID: asd
+Course 1 grade: 88
+Course 2 grade: 76
+Course 3 grade: 89
+Grades Average: 84.33
+Can Teach: true
+-----Student-----
+Name: asd
+Surname: asd
+ID: asd
+Course 1 grade: 65
+Course 2 grade: 89
+Course 3 grade: 77
+Grades Average: 77.00
+-----Student-----
+Name: 231
+Surname: 321
+ID: 321
+Course 1 grade: 33
+Course 2 grade: 98
+Course 3 grade: 88
+Grades Average: 73.00
+-----Student-----
+Name: asd
+Surname: asd
+ID: asd
+Course 66 grade: 65
+Course 57 grade: 56
+Course 56 grade: 55
+Grades Average: 58.67
+-----Student-----
+Name: asd
+Surname: asd
+ID: asd
+Course 1 grade: 65
+Course 2 grade: 56
+Course 3 grade: 66
+Grades Average: 62.33
+-----Faculty-----
+Name: asd
+Surname: asd
+ID: asd
+Can Teach: true
+-----Faculty-----
+Name: asd
+Surname: as
+ID: dasd
+Can Teach: false
+-----TA-----
+Name: asd
+Surname: as
+ID: dasd
+Course 1 grade: 98
+Course 2 grade: 56
+Course 3 grade: 88
+Grades Average: 80.67
+Can Teach: true
+-----TA-----
+Name: asd
+Surname: asd
+ID: asd
+Course 1 grade: 65
+Course 2 grade: 89
+Course 3 grade: 88
+Grades Average: 80.67
+Can Teach: true
+-----TA-----
+Name: asd
+Surname: asd
+ID: asd
+Course 1 grade: 6
+Course 2 grade: 8
+Course 3 grade: 56
+Grades Average: 23.33
+Can Teach: false
+-----Student-----
+Name: asd
+Surname: ads
+ID: ads
+Course 1 grade: 3
+Course 2 grade: 6
+Course 3 grade: 90
+Grades Average: 33.00
+-----TA-----
+Name: asd
+Surname: asd
+ID: asd
+Course 1 grade: 89
+Course 2 grade: 88
+Course 3 grade: 79
+Grades Average: 85.33
+Can Teach: true
+-----University Member-----
+Name: asd
+Surname: asd
+ID: asd
+-----Professor-----
+Name: asd
+Surname: asd
+ID: asd
+Active Teaching Personnel: true
+Office: 223
+-----Professor-----
+Name: asd
+Surname: asd
+ID: asd
+Active Teaching Personnel: true
+Office: 222
+-----TA-----
+Name: asd
+Surname: asd
+ID: asd
+Grades Average: 0.00
+Can Teach: false
+-----TA-----
+Name: asd
+Surname: asd
+ID: asd
+Course 1 grade: 98
+Course 2 grade: 89
+Course 3 grade: 77
+Course 4 grade: 0
+Course 5 grade: 0
+Grades Average: 88.00
+Can Teach: true
+-----Student-----
+Name: asd
+Surname: asd
+ID: asd
+Course 1 grade: 65
+Course 2 grade: 56
+Course 3 grade: 55
+Course 4 grade: 0
+Course 5 grade: 0
+Grades Average: 58.67
+-----Student-----
+Name: asd
+Surname: asd
+ID: asd
+Course 1 grade: 23
+Course 2 grade: 56
+Course 3 grade: 55
+Grades Average: 44.67
+-----Student-----
+Name: asd
+Surname: asd
+ID: asd
+Course 1 grade: 65
+Course 2 grade: 56
+Course 3 grade: 88
+Course 4 grade: 97
+Course 5 grade: 46
+Grades Average: 70.40
+-----TA-----
+Name: asd
+Surname: asd
+ID: asd
+Course 1 grade: 89
+Course 2 grade: 77
+Course 3 grade: 89
+Course 4 grade: 94
+Course 5 grade: 66
+Grades Average: 83.00
+Can Teach: true
+-----TA-----
+Name: asd
+Surname: asd
+ID: asd
+Course 1 grade: 65
+Course 2 grade: 89
+Course 3 grade: 99
+Course 4 grade: 76
+Grades Average: 82.25
+Can Teach: true
+-----Faculty-----
+Name: asd
+Surname: asd
+ID: asd
+Can Teach: 1

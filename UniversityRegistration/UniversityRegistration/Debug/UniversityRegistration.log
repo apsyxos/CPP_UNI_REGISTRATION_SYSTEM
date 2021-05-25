@@ -1,0 +1,7 @@
+﻿  Registration.cpp
+C:\Users\nik\source\repos\UniversityRegistration\UniversityRegistration\Registration.cpp(108,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  UniversityRegistration.cpp
+C:\Users\nik\source\repos\UniversityRegistration\UniversityRegistration\UniversityRegistration.cpp(53,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nik\source\repos\UniversityRegistration\UniversityRegistration\UniversityRegistration.cpp(58,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  UniversityRegistration.vcxproj -> C:\Users\nik\source\repos\UniversityRegistration\Debug\UniversityRegistration.exe
